@@ -10,6 +10,7 @@ En aprendizaje constante<br> <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
 
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
