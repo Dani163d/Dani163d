@@ -11,6 +11,8 @@ En aprendizaje constante<br> <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
+![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![lavarel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
 
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
