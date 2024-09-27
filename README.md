@@ -13,8 +13,9 @@ En aprendizaje constante<br> <br>
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
 ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![lavarel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
-![image](https://github.com/user-attachments/assets/c9e5dab0-cf34-4e0d-815b-db89f6eeca3b)
+![mysql](https://github.com/user-attachments/assets/c9e5dab0-cf34-4e0d-815b-db89f6eeca3b)
 ![image](https://github.com/user-attachments/assets/67715c39-6a18-4a8b-8234-2d2d4bd2fbf2)
+![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 
 
