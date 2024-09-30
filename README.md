@@ -27,7 +27,7 @@ En aprendizaje constante<br> <br>
   
 - ⚙️ &nbsp;
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 - 🔧 &nbsp;
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
