@@ -1,6 +1,6 @@
 
 ## About Me⭐️
- Desarrolladora Fron-end <br>
+ Desarrolladora Front-End <br>
 En aprendizaje constante<br> <br>
 
 ## Tech Stack :computer:
