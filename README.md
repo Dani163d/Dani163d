@@ -31,6 +31,7 @@ En aprendizaje constante<br> <br>
 - 🔧 &nbsp;
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
+
 <br/>
 
 ## Stats 📊
@@ -55,6 +56,9 @@ En aprendizaje constante<br> <br>
 
 
 ## &nbsp;Connect with Me 🤝🏻 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:danielasilvacastillo163@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:danielasilvacastillo163@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/)
+
+
 
 
